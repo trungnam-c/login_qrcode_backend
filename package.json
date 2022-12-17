@@ -8,7 +8,7 @@
         "hot": "mix watch --hot",
         "prod": "npm run production",
         "production": "mix --production",
-        "servehost":"php artisan serve --host=192.168.18.14 --port=8000"
+        "serve":"php artisan serve --host=192.168.18.14 --port=8000"
     },
     "devDependencies": {
         "axios": "^0.21",
